@@ -1,8 +1,6 @@
 #include <iostream>
 
-// Main function
-int main() {
-    // Output text
+int main () {
     std::cout << "Hello, World!" << std::endl;
     return 0;
 }
